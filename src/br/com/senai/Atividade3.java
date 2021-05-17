@@ -41,6 +41,6 @@ public class Atividade3 {
 		System.out.println("pares: " + par);
 		System.out.println("impares: " + impar);
 		
-	}
+	
 
-}
+
